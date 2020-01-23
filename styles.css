@@ -1,0 +1,102 @@
+#home, .table, .container, .jumbotron {
+  text-align: center;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+h1 {
+  padding-top: 25px;
+}
+
+h2 {
+  padding-bottom: 15px;
+}
+
+.jumbotron h1 {
+  font-size: 40px;
+}
+.jumbotron p {
+  font-size: 15px;
+}
+
+.table {
+  margin-top: 50px;
+  font-size: 12px;
+}
+
+#home {
+  padding-top: 200px;
+  color: black;
+}
+
+#home:hover {
+  color: blue;
+}
+
+img {
+  width: 100%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+a img {
+  height: 200px;
+  width: 200px;
+  padding: 10px;
+}
+
+@media (min-width: 576px) {
+  .jumbotron h1 {
+    font-size: 60px;
+  }
+  .jumbotron p {
+    font-size: 20px;
+  }
+}
+@media (min-width: 768px) {
+  a img {
+    height: 250px;
+    width: 250px;
+  }
+
+  .table {
+    font-size: 20px;
+  }
+}
+@media (min-width: 992px) {
+  body {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  a img {
+    height: 300px;
+    width: 300px;
+  }
+
+  .jumbotron h1 {
+    font-size: 80px;
+  }
+  .jumbotron p {
+    font-size: 30px;
+  }
+}
+@media (min-width: 1200px) {
+  a img {
+    height: 400px;
+    width: 400px;
+  }
+
+  .jumbotron h1 {
+    font-size: 100px;
+  }
+  .jumbotron p {
+    font-size: 40px;
+  }
+}
+
+/*# sourceMappingURL=styles.css.map */
