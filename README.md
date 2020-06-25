@@ -1,7 +1,5 @@
 # Project 0
 
-## Web Programming with Python and JavaScript
-
 A responsive website built in HTML, CSS, and Sass with linked animal graphics
 and descriptions.
 
@@ -40,3 +38,5 @@ Link to return home and page creation info at the bottom
 
 #### styles.scss
 Responsive styling to adjust images and layout with changes in the viewport
+
+> Designed for HarvardX CS50: Web Programming with Python and JavaScript
