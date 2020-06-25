@@ -1,4 +1,4 @@
-# Project 0
+# Animals
 
 A responsive website built in HTML, CSS, and Sass with linked animal graphics
 and descriptions.
